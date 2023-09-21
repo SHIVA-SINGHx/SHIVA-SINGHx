@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva-singhx&label=Profile%20views&color=0e75b6&style=flat" alt="shiva-singhx" /> </p>
 
-- 💬 Ask me about **javascript, reatjs, MERN stack**
+- 💬 Ask me about **javascript, reactjs, MERN stack development**
 
 - 📫 How to reach me **shivasingh.1dev@gmail.com**
 
