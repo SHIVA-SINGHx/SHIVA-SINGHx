@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate with techie entrepreneur<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Android Development and Devops/Clouds<br>💬 Ask me about @shivasingh.1dev@gmail.com
+🔭 I’m currently working on <br>👯 I’m looking to collaborate with techie entrepreneur<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Android Development and Devops/Clouds<br>💬 Ask me anything @shivasingh.1dev@gmail.com
 
 
 ## 🌐 Socials:
