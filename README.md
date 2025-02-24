@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m try to building a product <br>👯 I’m looking to collaborate with techie entrepreneur<br>🌱 I’m currently learning Android Development and Devops/Clouds<br>💬 Ask me anything @shivasingh.1dev@gmail.com
+🔭 I’m try to building a product <br>👯 I’m looking to collaborate with techie entrepreneur<br>🌱 I’m currently learning Web/Android development and Devops/Clouds<br>💬 Ask me anything @shivasingh.1dev@gmail.com
 
 
 ## 🌐 Socials:
@@ -15,7 +15,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shiva singh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=shiva singh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
