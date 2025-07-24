@@ -1,8 +1,5 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4577b4e3-eb20-42ea-8088-c745981f3c82" width="300">
-<br><br>
-
 # 💫 About Me:
 🔭 I’m try to building a product <br>👯 I’m looking to collaborate with techie entrepreneur<br>🌱 I’m currently learning Web/Android development and Devops/Clouds<br>💬 Ask me anything @shivasingh.1dev@gmail.com
 
