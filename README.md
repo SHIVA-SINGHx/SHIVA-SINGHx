@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120" /> [🔝](#--gifs-for-readme--)
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120" /> 
 
 # 💫 About Me:
 🔭 I’m try to building a product <br>👯 I’m looking to collaborate with techie entrepreneur<br>🌱 I’m currently learning Web/Android development and Devops/Clouds<br>💬 Ask me anything @shivasingh.1dev@gmail.com
