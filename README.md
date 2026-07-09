@@ -37,11 +37,6 @@ I'm a full-stack engineer with hands-on experience in building production-grade 
  
 
 ###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=SHIVA-SINGHx&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=SHIVA-SINGHx&icon=0&color=0)](https://visitcount.itsvg.in)
 
