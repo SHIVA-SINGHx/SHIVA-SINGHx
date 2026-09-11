@@ -3,7 +3,9 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 # 💫 About Me:
-I'm a full-stack engineer with hands-on experience in building production-grade applications using the MERN stack, and expanding into Python, Django, and Go for robust backend systems.<br><br>My current focus is on designing scalable, distributed architectures using  microservices and gRPC, with strong interest in DevOps, cloud-native solutions (AWS, Docker, Kubernetes), and CI/CD pipelines using jenkins and github actions.<br><br>I’m particularly drawn to the pace and problem-solving culture of startups, and I actively contribute to open source and build in public to stay sharp and connected with the community.
+I’m a Software Engineer focused on **backend, cloud, and DevOps engineering**, with a strong foundation in full-stack development. I build backend systems with **Node.js, Python, and Typescript**, and work with **AWS, Docker, Kubernetes, and CI/CD** to automate and improve the way applications are built, deployed, and operated. I’m particularly interested in **distributed systems, microservices, scalable backend architecture, and cloud-native infrastructure**. I’m also exploring **Generative AI** and building practical projects around it.
+I like learning by building, contributing to open source, and understanding the engineering behind the systems I use every day.
+
 
 
 ## 🌐 Socials:
