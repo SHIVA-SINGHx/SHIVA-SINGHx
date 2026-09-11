@@ -4,8 +4,10 @@
 
 # 💫 About Me:
 I’m a Software Engineer focused on **backend, cloud, and DevOps engineering**, with a strong foundation in full-stack development. 
-I build backend systems with **Node.js, Python, and Typescript**, and work with **AWS, Docker, Kubernetes, and CI/CD** to automate and improve the way applications are built, deployed, and operated. 
+I build backend systems with **Node.js, Python, and Typescript**, and work with **AWS, Docker, Kubernetes, and CI/CD** to automate and improve the way applications are built deployed, and operated. 
+
 I’m particularly interested in **distributed systems, microservices, scalable backend architecture, and cloud-native infrastructure**. I’m also exploring **Generative AI** and building practical projects around it.
+
 I like learning by building, contributing to open source, and understanding the engineering behind the systems I use every day.
 
 
