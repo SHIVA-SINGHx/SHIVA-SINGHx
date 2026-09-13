@@ -1,6 +1,9 @@
+
+
 <h1 align="center">Ssup? Shiva Fm This Side</h1>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 
 # 💫 About Me:
 I’m a Software Engineer with a strong background in full-stack development and a growing focus on **backend engineering, cloud infrastructure, and DevOps**.
@@ -14,8 +17,6 @@ I’m particularly interested in **microservices, distributed systems, scalable 
 I’m also exploring **Generative AI**, building practical applications and experimenting with how AI can be integrated into real-world software systems.
 
 I learn by building, breaking, debugging, and rebuilding things — while contributing to open source and sharing what I learn along the way.
-
-
 
 
 <h1 align="center">
@@ -39,6 +40,8 @@ I learn by building, breaking, debugging, and rebuilding things — while contri
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a> -->
 </p>
+
+ <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
 # 💻 Tech Stack:
 
@@ -68,10 +71,12 @@ I learn by building, breaking, debugging, and rebuilding things — while contri
 <h3><li>Others</li></h3>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
- 
 
-###
----
-[![](https://visitcount.itsvg.in/api?id=SHIVA-SINGHx&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
